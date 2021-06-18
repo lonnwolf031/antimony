@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Antimony"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib64\;CMake Files\..\..\..\..\usr\lib64\cmake\;CMake Files\..\..\..\..\usr\lib64\cmake\Boost-1.76.0\;CMake Files\..\..\..\..\usr\lib64\cmake\boost_headers-1.76.0\;CMake Files\..\..\..\..\usr\lib64\cmake\boost_python-1.76.0\;CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Core\;CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Widgets\;CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\;CMake Files\..\..\..\..\usr\lib64\cmake\Qt5OpenGL\;CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Network\;CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Concurrent\;CMake Files\lib\;CMake Files\lib\graph\;CMake Files\lib\fab\;CMake Files\app\;CMake Files\app\gl\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbGraph">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/libSbGraph.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 SbGraph"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbGraph/fast">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/libSbGraph.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 SbGraph/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbGraphTest">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/SbGraphTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/../../vendor"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 SbGraphTest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbGraphTest/fast">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/SbGraphTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/../../vendor"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 SbGraphTest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/graph/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbFab">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/libSbFab.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/vendor"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 SbFab"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbFab/fast">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/libSbFab.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/vendor"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 SbFab/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbFabTest">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/SbFabTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/inc"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/../../vendor"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 SbFabTest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SbFabTest/fast">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/SbFabTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/inc"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/../../vendor"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 SbFabTest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="antimony">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/app"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NO_DEBUG"/>
+					<Add option="-DQT_OPENGL_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_CONCURRENT_LIB"/>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/cmake-build-debug/app"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/app"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/include"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/inc"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/usr/include/qt"/>
+					<Add directory="/usr/include/qt/QtWidgets"/>
+					<Add directory="/usr/include/qt/QtGui"/>
+					<Add directory="/usr/include/qt/QtCore"/>
+					<Add directory="/usr/lib/qt/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/qt/QtOpenGL"/>
+					<Add directory="/usr/include/qt/QtNetwork"/>
+					<Add directory="/usr/include/qt/QtConcurrent"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 antimony"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="antimony/fast">
+				<Option output="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/app"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NO_DEBUG"/>
+					<Add option="-DQT_OPENGL_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_CONCURRENT_LIB"/>
+					<Add option="-DBOOST_ALL_NO_LIB"/>
+					<Add option="-DBOOST_PYTHON_DYN_LINK"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/cmake-build-debug/app"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/app"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/include"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/graph/inc"/>
+					<Add directory="/home/lonn/CLionProjects/antimony/lib/fab/inc"/>
+					<Add directory="/usr/include/python3.9"/>
+					<Add directory="/usr/include/qt"/>
+					<Add directory="/usr/include/qt/QtWidgets"/>
+					<Add directory="/usr/include/qt/QtGui"/>
+					<Add directory="/usr/include/qt/QtCore"/>
+					<Add directory="/usr/lib/qt/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/qt/QtOpenGL"/>
+					<Add directory="/usr/include/qt/QtNetwork"/>
+					<Add directory="/usr/include/qt/QtConcurrent"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 antimony/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="antimony_autogen">
+				<Option working_dir="/home/lonn/CLionProjects/antimony/cmake-build-debug/app"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 antimony_autogen"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lonn/CLionProjects/antimony/cmake-build-debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/app.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/app.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/colors.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/colors.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/main.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/update.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/app/update.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/canvas_view.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/canvas_view.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/connection/base.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/connection/base.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/connection/connection.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/connection/connection.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/connection/dummy.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/connection/dummy.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/datum_editor.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/datum_editor.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/datum_port.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/datum_port.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/datum_row.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/datum_row.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/info.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/info.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/buttons.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/buttons.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/export.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/export.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/frame.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/frame.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/title.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/title.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/util.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/inspector/util.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/scene.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/scene.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_editor.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_editor.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_frame.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_frame.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_row.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_row.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/dialog/exporting.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/dialog/exporting.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/dialog/resolution.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/dialog/resolution.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/export/export_heightmap.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/export/export_heightmap.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/export/export_mesh.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/export/export_mesh.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/export/export_worker.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/export/export_worker.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/gl/gl.qrc">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/constructor/populate.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/constructor/populate.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/export.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/export.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/hooks.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/hooks.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/title.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/title.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/ui.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/hooks/ui.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/base_datum.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/base_datum.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/datum.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/datum.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/graph.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/graph.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/node.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/node.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/script.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/script.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/subdatum.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/proxy/subdatum.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/serialize/deserializer.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/serialize/deserializer.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/serialize/serializer.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/graph/serialize/serializer.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/script/editor.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/script/editor.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/script/frame.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/script/frame.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/script/syntax.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/script/syntax.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_add_datum.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_add_datum.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_add_node.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_add_node.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_change_expr.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_change_expr.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_change_script.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_change_script.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_command.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_command.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_datum.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_datum.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_link.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_link.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_multi.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_multi.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_node.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_delete_node.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_move_datum.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_move_datum.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_move_node.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_move_node.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_stack.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/undo/undo_stack.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/control.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/control.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/control_instance.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/control_instance.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/point.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/point.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/wireframe.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/control/wireframe.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/gl.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/gl.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/image.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/image.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/render/instance.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/render/instance.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/render/task.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/render/task.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/scene.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/scene.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/view.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/viewport/view.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/base.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/base.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/base_viewport_window.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/base_viewport_window.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/canvas.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/canvas.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/quad.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/quad.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/script_window.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/script_window.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/viewport.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/window/viewport.h">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/IS6UBRRGP5/qrc_gl.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/IS6UBRRGP5/qrc_gl.cpp.rule">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/mocs_compilation.cpp">
+			<Option target="antimony"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/v2syntax.lemon.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/v2syntax.lemon.hpp.rule">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/v2syntax.yy.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/cmake-build-debug/lib/fab/v2syntax.yy.hpp.rule">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/fab.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/formats/png.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/formats/stl.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/eval.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/math/math_f.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/math/math_g.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/math/math_i.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/math/math_r.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/node/node_c.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/node/opcodes.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/node/printers.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/node/printers_ss.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/node/results.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/parser.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/render.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/tree.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/triangulate.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/triangulate/mesher.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/triangulate/triangle.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/tree/v2parser.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/types/bounds.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/types/shape.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/types/transform.cpp">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/util/region.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/src/util/ustack.c">
+			<Option target="SbFab"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/tests/main.cpp">
+			<Option target="SbFabTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/tests/parser.cpp">
+			<Option target="SbFabTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/tests/shape.cpp">
+			<Option target="SbFabTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/datum.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/graph.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/graph_node.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/hooks/hooks.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/hooks/input.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/hooks/output.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/node.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/proxy.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/script.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/script_node.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/types/downstream.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/types/root.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/src/util.cpp">
+			<Option target="SbGraph"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/datum.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/graph.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/link.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/main.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/node.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/script.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/tests/subgraph.cpp">
+			<Option target="SbGraphTest"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/BoostDetectToolset-1.76.0.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Boost-1.76.0/BoostConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Boost-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Boost-1.76.0/BoostConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Boost-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/boost_headers-1.76.0/boost_headers-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\boost_headers-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/boost_headers-1.76.0/boost_headers-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\boost_headers-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/boost_python-1.76.0/boost_python-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\boost_python-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/boost_python-1.76.0/boost_python-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\boost_python-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/boost_python-1.76.0/libboost_python-variant-shared-py3.9.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\boost_python-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/boost_python-1.76.0/libboost_python-variant-static-py3.9.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\boost_python-1.76.0\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5OpenGL/Qt5OpenGLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5OpenGL\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5OpenGL/Qt5OpenGLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5OpenGL\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Concurrent\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/../../../../usr/lib64/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\Qt5Concurrent\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/graph/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\graph\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/lib/fab/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\fab\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\"/>
+		</Unit>
+		<Unit filename="/home/lonn/CLionProjects/antimony/app/gl/gl.qrc">
+			<Option virtualFolder="CMake Files\app\gl\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

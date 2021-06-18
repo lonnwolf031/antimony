@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lonn/CLionProjects/antimony/app",
+	"CMAKE_SOURCE_DIR" : "/home/lonn/CLionProjects/antimony",
+	"INCLUDE_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/lonn/CLionProjects/antimony/app/gl/height.frag",
+		"/home/lonn/CLionProjects/antimony/app/gl/shaded.frag",
+		"/home/lonn/CLionProjects/antimony/app/gl/quad.vert"
+	],
+	"LOCK_FILE" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/CMakeFiles/antimony_autogen.dir/AutoRcc_gl_IS6UBRRGP5_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "gl" ],
+	"OUTPUT_CHECKSUM" : "IS6UBRRGP5",
+	"OUTPUT_NAME" : "qrc_gl.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/CMakeFiles/antimony_autogen.dir/AutoRcc_gl_IS6UBRRGP5_Used.txt",
+	"SOURCE" : "/home/lonn/CLionProjects/antimony/app/gl/gl.qrc",
+	"VERBOSITY" : 0
+}

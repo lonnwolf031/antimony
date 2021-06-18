@@ -1,0 +1,663 @@
+{
+	"BUILD_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lonn/CLionProjects/antimony/app",
+	"CMAKE_EXECUTABLE" : "/home/lonn/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7442.42/bin/cmake/linux/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/lonn/CLionProjects/antimony/app/CMakeLists.txt",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/home/lonn/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7442.42/bin/cmake/linux/share/cmake-3.19/Modules/CMakeParseArguments.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/home/lonn/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7442.42/bin/cmake/linux/share/cmake-3.19/Modules/CMakeParseArguments.cmake",
+		"/usr/lib64/cmake/Qt5OpenGL/Qt5OpenGLConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5OpenGL/Qt5OpenGLConfig.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake",
+		"/home/lonn/CLionProjects/antimony/app/gl/gl.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/lonn/CLionProjects/antimony",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/lonn/CLionProjects/antimony/app/app/app.h",
+			"MU",
+			"VJIZ3MDCXP/moc_app.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/app/colors.h",
+			"MU",
+			"VJIZ3MDCXP/moc_colors.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/app/update.h",
+			"MU",
+			"VJIZ3MDCXP/moc_update.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/canvas_view.h",
+			"MU",
+			"KGLXD3X7AI/moc_canvas_view.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/connection/base.h",
+			"MU",
+			"7DE644ELHY/moc_base.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/connection/connection.h",
+			"MU",
+			"7DE644ELHY/moc_connection.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/connection/dummy.h",
+			"MU",
+			"7DE644ELHY/moc_dummy.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/datum_editor.h",
+			"MU",
+			"KGLXD3X7AI/moc_datum_editor.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/datum_port.h",
+			"MU",
+			"KGLXD3X7AI/moc_datum_port.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/datum_row.h",
+			"MU",
+			"KGLXD3X7AI/moc_datum_row.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/info.h",
+			"MU",
+			"KGLXD3X7AI/moc_info.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/buttons.h",
+			"MU",
+			"ZNLU55MQ25/moc_buttons.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/export.h",
+			"MU",
+			"ZNLU55MQ25/moc_export.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/frame.h",
+			"MU",
+			"ZNLU55MQ25/moc_frame.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/title.h",
+			"MU",
+			"ZNLU55MQ25/moc_title.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/util.h",
+			"MU",
+			"ZNLU55MQ25/moc_util.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/scene.h",
+			"MU",
+			"KGLXD3X7AI/moc_scene.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_editor.h",
+			"MU",
+			"3TE5GLSX7Z/moc_subdatum_editor.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_frame.h",
+			"MU",
+			"3TE5GLSX7Z/moc_subdatum_frame.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_row.h",
+			"MU",
+			"3TE5GLSX7Z/moc_subdatum_row.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/dialog/exporting.h",
+			"MU",
+			"TDYLDYII3U/moc_exporting.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/dialog/resolution.h",
+			"MU",
+			"TDYLDYII3U/moc_resolution.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/export/export_heightmap.h",
+			"MU",
+			"CV7R3MSKRA/moc_export_heightmap.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/export/export_mesh.h",
+			"MU",
+			"CV7R3MSKRA/moc_export_mesh.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/export/export_worker.h",
+			"MU",
+			"CV7R3MSKRA/moc_export_worker.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/constructor/populate.h",
+			"MU",
+			"FAZ5JOVDHM/moc_populate.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/hooks/export.h",
+			"MU",
+			"BZDAINNCFG/moc_export.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/hooks/hooks.h",
+			"MU",
+			"BZDAINNCFG/moc_hooks.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/hooks/title.h",
+			"MU",
+			"BZDAINNCFG/moc_title.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/hooks/ui.h",
+			"MU",
+			"BZDAINNCFG/moc_ui.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/base_datum.h",
+			"MU",
+			"D7HLZSEEP5/moc_base_datum.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/datum.h",
+			"MU",
+			"D7HLZSEEP5/moc_datum.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/graph.h",
+			"MU",
+			"D7HLZSEEP5/moc_graph.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/node.h",
+			"MU",
+			"D7HLZSEEP5/moc_node.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/script.h",
+			"MU",
+			"D7HLZSEEP5/moc_script.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/subdatum.h",
+			"MU",
+			"D7HLZSEEP5/moc_subdatum.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/serialize/deserializer.h",
+			"MU",
+			"KBEMZR2VGC/moc_deserializer.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/serialize/serializer.h",
+			"MU",
+			"KBEMZR2VGC/moc_serializer.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/script/editor.h",
+			"MU",
+			"LMUR6ESOKH/moc_editor.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/script/frame.h",
+			"MU",
+			"LMUR6ESOKH/moc_frame.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/script/syntax.h",
+			"MU",
+			"LMUR6ESOKH/moc_syntax.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_add_datum.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_add_datum.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_add_node.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_add_node.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_change_expr.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_change_expr.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_change_script.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_change_script.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_command.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_command.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_datum.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_delete_datum.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_link.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_delete_link.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_multi.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_delete_multi.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_node.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_delete_node.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_move_datum.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_move_datum.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_move_node.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_move_node.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_stack.h",
+			"MU",
+			"DUXJVKIIEO/moc_undo_stack.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/control.h",
+			"MU",
+			"MKP2X2RHHU/moc_control.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/control_instance.h",
+			"MU",
+			"MKP2X2RHHU/moc_control_instance.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/point.h",
+			"MU",
+			"MKP2X2RHHU/moc_point.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/wireframe.h",
+			"MU",
+			"MKP2X2RHHU/moc_wireframe.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/gl.h",
+			"MU",
+			"6WEQZVSXKD/moc_gl.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/image.h",
+			"MU",
+			"6WEQZVSXKD/moc_image.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/render/instance.h",
+			"MU",
+			"424LE5FWXF/moc_instance.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/render/task.h",
+			"MU",
+			"424LE5FWXF/moc_task.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/scene.h",
+			"MU",
+			"6WEQZVSXKD/moc_scene.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/view.h",
+			"MU",
+			"6WEQZVSXKD/moc_view.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/base.h",
+			"MU",
+			"DT2573FGAL/moc_base.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/base_viewport_window.h",
+			"MU",
+			"DT2573FGAL/moc_base_viewport_window.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/canvas.h",
+			"MU",
+			"DT2573FGAL/moc_canvas.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/quad.h",
+			"MU",
+			"DT2573FGAL/moc_quad.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/script_window.h",
+			"MU",
+			"DT2573FGAL/moc_script_window.cpp"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/viewport.h",
+			"MU",
+			"DT2573FGAL/moc_viewport.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BOOST_ALL_NO_LIB",
+		"BOOST_PYTHON_DYN_LINK",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/lonn/CLionProjects/antimony/cmake-build-debug/app",
+		"/home/lonn/CLionProjects/antimony/app",
+		"/home/lonn/CLionProjects/antimony/lib/graph/inc",
+		"/home/lonn/CLionProjects/antimony/lib/fab/inc",
+		"/usr/include/python3.9",
+		"/usr/include/qt",
+		"/usr/include/qt/QtWidgets",
+		"/usr/include/qt/QtGui",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/qt/QtOpenGL",
+		"/usr/include/qt/QtNetwork",
+		"/usr/include/qt/QtConcurrent",
+		"/usr/include",
+		"/usr/include/c++/11.1.0",
+		"/usr/include/c++/11.1.0/x86_64-pc-linux-gnu",
+		"/usr/include/c++/11.1.0/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/lonn/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7442.42/bin/cmake/linux/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/antimony_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/CMakeFiles/antimony_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/lonn/CLionProjects/antimony/cmake-build-debug/app/CMakeFiles/antimony_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/lonn/CLionProjects/antimony/app/app/app.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/app/colors.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/app/main.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/app/update.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/canvas/canvas_view.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/connection/base.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/connection/connection.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/connection/dummy.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/canvas/datum_editor.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/canvas/datum_port.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/canvas/datum_row.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/canvas/info.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/buttons.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/export.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/frame.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/title.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/inspector/util.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/canvas/scene.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_editor.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_frame.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/canvas/subdatum/subdatum_row.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/dialog/exporting.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/dialog/resolution.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/export/export_heightmap.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/export/export_mesh.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/export/export_worker.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/constructor/populate.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/hooks/export.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/hooks/hooks.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/hooks/title.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/hooks/ui.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/base_datum.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/proxy/datum.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/proxy/graph.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/proxy/node.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/graph/proxy/script.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/proxy/subdatum.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/serialize/deserializer.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/graph/serialize/serializer.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/script/editor.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/script/frame.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/script/syntax.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/undo/undo_add_datum.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/undo/undo_add_node.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_change_expr.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_change_script.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/undo/undo_command.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_datum.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_link.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_multi.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_delete_node.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/undo/undo_move_datum.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/undo/undo_move_node.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/undo/undo_stack.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/control.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/control_instance.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/point.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/control/wireframe.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/viewport/gl.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/viewport/image.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/render/instance.cpp",
+			"MU"
+		],
+		[
+			"/home/lonn/CLionProjects/antimony/app/viewport/render/task.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/viewport/scene.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/viewport/view.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/window/base.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/base_viewport_window.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/window/canvas.cpp", "MU" ],
+		[ "/home/lonn/CLionProjects/antimony/app/window/quad.cpp", "MU" ],
+		[
+			"/home/lonn/CLionProjects/antimony/app/window/script_window.cpp",
+			"MU"
+		],
+		[ "/home/lonn/CLionProjects/antimony/app/window/viewport.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
